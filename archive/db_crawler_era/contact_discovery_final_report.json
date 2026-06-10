@@ -1,0 +1,188 @@
+{
+  "generation_date": "2025-05-25T01:59:49.989040",
+  "crawl_config": {
+    "max_pages_per_site": 30,
+    "max_depth": 3,
+    "max_links_per_page": 20,
+    "max_scan_time_per_site": 300,
+    "request_delay": 0.5,
+    "page_timeout": 10,
+    "early_stop_email_count": 15,
+    "priority_pages_only": false
+  },
+  "summary": {
+    "companies_processed": 19,
+    "successful_discoveries": 9,
+    "total_contacts_found": 46,
+    "success_rate": "47.4%"
+  },
+  "contact_breakdown_by_role": {
+    "Contact": 24,
+    "Customer Support": 19,
+    "General Contact": 2,
+    "HR/Recruiting": 1,
+    "Business Development": 1
+  },
+  "companies": [
+    {
+      "name": "Uplyt.io",
+      "website": "https://www.uplyt.io",
+      "categories": "Analytics, Advertising, SEO",
+      "votes": 293,
+      "discovery_status": "completed",
+      "contacts_found": 1
+    },
+    {
+      "name": "Shotomatic",
+      "website": "https://www.shotomatic.com",
+      "categories": "Mac, SaaS, Apple",
+      "votes": 210,
+      "discovery_status": "completed",
+      "contacts_found": 1
+    },
+    {
+      "name": "Psyche",
+      "website": "https://www.psycheholistic.com",
+      "categories": "Artificial Intelligence, Health",
+      "votes": 200,
+      "discovery_status": "no_contacts",
+      "contacts_found": 0
+    },
+    {
+      "name": "Magentic-UI",
+      "website": "https://www.microsoft.com",
+      "categories": "Open Source, Artificial Intelligence, GitHub, Development",
+      "votes": 174,
+      "discovery_status": "completed",
+      "contacts_found": 1
+    },
+    {
+      "name": "vibecheck",
+      "website": "https://apps.apple.com",
+      "categories": "Social Network, Social Media, Social Networking",
+      "votes": 161,
+      "discovery_status": "no_contacts",
+      "contacts_found": 0
+    },
+    {
+      "name": "Liznr",
+      "website": "https://liznr.ai",
+      "categories": "Chrome Extensions, Productivity, Meetings, Artificial Intelligence",
+      "votes": 105,
+      "discovery_status": "no_contacts",
+      "contacts_found": 0
+    },
+    {
+      "name": "Silver Pennies",
+      "website": "https://www.silverpennies.info",
+      "categories": "Email, Money, Personal Finance",
+      "votes": 79,
+      "discovery_status": "no_contacts",
+      "contacts_found": 0
+    },
+    {
+      "name": "Tipsy Chat: Your AI Tavern",
+      "website": "https://tipsy.chat",
+      "categories": "Artificial Intelligence, Bots, Photo & Video",
+      "votes": 73,
+      "discovery_status": "completed",
+      "contacts_found": 1
+    },
+    {
+      "name": "EddyOwl",
+      "website": "https://eddyowl.com",
+      "categories": "Analytics, Education, Artificial Intelligence",
+      "votes": 69,
+      "discovery_status": "no_contacts",
+      "contacts_found": 0
+    },
+    {
+      "name": "Plannex",
+      "website": "https://plannex.io",
+      "categories": "Productivity, Task Management, Developer Tools",
+      "votes": 64,
+      "discovery_status": "no_contacts",
+      "contacts_found": 0
+    },
+    {
+      "name": "Lily Pad",
+      "website": "https://www.boardsource.xyz",
+      "categories": "Custom Keyboards, Hardware, Tech",
+      "votes": 63,
+      "discovery_status": "no_contacts",
+      "contacts_found": 0
+    },
+    {
+      "name": "SlidesCraft",
+      "website": "https://www.slidescraft.com",
+      "categories": "Productivity, User Experience, Artificial Intelligence",
+      "votes": 62,
+      "discovery_status": "completed",
+      "contacts_found": 2
+    },
+    {
+      "name": "Is This Course Legit?",
+      "website": "https://isthiscourselegit.com",
+      "categories": "Education",
+      "votes": 58,
+      "discovery_status": "no_contacts",
+      "contacts_found": 0
+    },
+    {
+      "name": "Paperguide Article GPT",
+      "website": "https://paperguide.ai",
+      "categories": "Writing, Marketing, Artificial Intelligence",
+      "votes": 55,
+      "discovery_status": "completed",
+      "contacts_found": 7
+    },
+    {
+      "name": "MewtruCard",
+      "website": "https://lu.ma/producthunt",
+      "categories": "Card Games, Funny, Design Tools, GitHub",
+      "votes": 17,
+      "discovery_status": "completed",
+      "contacts_found": 6
+    },
+    {
+      "name": "GetADACompliant.org",
+      "website": "https://getadacompliant.org",
+      "categories": "SaaS, Legal, Business",
+      "votes": 12,
+      "discovery_status": "no_contacts",
+      "contacts_found": 0
+    },
+    {
+      "name": "NexuSelf",
+      "website": "https://play.google.com",
+      "categories": "Android, Health & Fitness, Artificial Intelligence",
+      "votes": 11,
+      "discovery_status": "completed",
+      "contacts_found": 24
+    },
+    {
+      "name": "SmartCue",
+      "website": "https://www.getsmartcue.com",
+      "categories": "Chrome Extensions, SaaS, Marketing automation",
+      "votes": 10,
+      "discovery_status": "completed",
+      "contacts_found": 2
+    },
+    {
+      "name": "Best Focus",
+      "website": "https://bestfocus.vercel.app",
+      "categories": "Productivity, Time Tracking",
+      "votes": 10,
+      "discovery_status": "no_contacts",
+      "contacts_found": 0
+    },
+    {
+      "name": "MCP Fabric",
+      "website": "https://mcpfabric.com",
+      "categories": "API, Developer Tools, Artificial Intelligence",
+      "votes": 9,
+      "discovery_status": "completed",
+      "contacts_found": 2
+    }
+  ]
+}

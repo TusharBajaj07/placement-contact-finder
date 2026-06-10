@@ -1,0 +1,476 @@
+{
+  "generation_date": "2025-05-25T02:04:55.046359",
+  "summary": {
+    "total_unique_emails": 47,
+    "companies_with_contacts": 10,
+    "total_companies_processed": 10
+  },
+  "companies": [
+    {
+      "name": "Uplyt.io",
+      "votes": 293,
+      "categories": "Analytics, Advertising, SEO",
+      "website": "https://www.uplyt.io",
+      "contact_count": 1,
+      "contacts": [
+        {
+          "name": "Contact",
+          "email": "contact@uplyt.io",
+          "role": "General Contact",
+          "confidence": 0.7,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:37:21.583219"
+        }
+      ]
+    },
+    {
+      "name": "Shotomatic",
+      "votes": 210,
+      "categories": "Mac, SaaS, Apple",
+      "website": "https://www.shotomatic.com",
+      "contact_count": 1,
+      "contacts": [
+        {
+          "name": "Support",
+          "email": "support@shotomatic.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:44:01.291477"
+        }
+      ]
+    },
+    {
+      "name": "Magentic-UI",
+      "votes": 174,
+      "categories": "Open Source, Artificial Intelligence, GitHub, Development",
+      "website": "https://www.microsoft.com",
+      "contact_count": 1,
+      "contacts": [
+        {
+          "name": "Support",
+          "email": "support@xbox.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:49:24.981671"
+        }
+      ]
+    },
+    {
+      "name": "Tipsy Chat: Your AI Tavern",
+      "votes": 73,
+      "categories": "Artificial Intelligence, Bots, Photo & Video",
+      "website": "https://tipsy.chat",
+      "contact_count": 1,
+      "contacts": [
+        {
+          "name": "Support",
+          "email": "support@tipsy.chat",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:51:05.304500"
+        }
+      ]
+    },
+    {
+      "name": "SlidesCraft",
+      "votes": 62,
+      "categories": "Productivity, User Experience, Artificial Intelligence",
+      "website": "https://www.slidescraft.com",
+      "contact_count": 2,
+      "contacts": [
+        {
+          "name": "Mmmmmyyc",
+          "email": "mmmmmyyc@gmail.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:53:19.242216"
+        },
+        {
+          "name": "Mmmmmyyc",
+          "email": "mmmmmyyc@ycamie.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:53:19.243824"
+        }
+      ]
+    },
+    {
+      "name": "Paperguide Article GPT",
+      "votes": 55,
+      "categories": "Writing, Marketing, Artificial Intelligence",
+      "website": "https://paperguide.ai",
+      "contact_count": 7,
+      "contacts": [
+        {
+          "name": "Hello",
+          "email": "hello@paperguide.ai",
+          "role": "General Contact",
+          "confidence": 0.7,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:55:28.310981"
+        },
+        {
+          "name": "Juanrivera126",
+          "email": "juanrivera126@gmail.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:55:28.311770"
+        },
+        {
+          "name": "Radicallypracticalgravity",
+          "email": "radicallypracticalgravity@gmail.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:55:28.311793"
+        },
+        {
+          "name": "Wllei080120",
+          "email": "wllei080120@gmail.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:55:28.311803"
+        },
+        {
+          "name": "Sofiahillyzahm22",
+          "email": "sofiahillyzahm22@gmail.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:55:28.311813"
+        },
+        {
+          "name": "Greywolf12130",
+          "email": "greywolf12130@gmail.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:55:28.311821"
+        },
+        {
+          "name": "Emalespina",
+          "email": "emalespina@gmail.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:55:28.311832"
+        }
+      ]
+    },
+    {
+      "name": "MewtruCard",
+      "votes": 17,
+      "categories": "Card Games, Funny, Design Tools, GitHub",
+      "website": "https://lu.ma/producthunt",
+      "contact_count": 6,
+      "contacts": [
+        {
+          "name": "Chris",
+          "email": "chris@mtlc.co",
+          "role": "HR/Recruiting",
+          "confidence": 0.9,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:56:42.378443"
+        },
+        {
+          "name": "Me",
+          "email": "me@email.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:56:42.379158"
+        },
+        {
+          "name": "Ndan",
+          "email": "ndan@knoknok.co",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:56:42.379179"
+        },
+        {
+          "name": "You",
+          "email": "you@email.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:56:42.379189"
+        },
+        {
+          "name": "Admin",
+          "email": "admin@myswitchapp.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:56:42.379200"
+        },
+        {
+          "name": "Support",
+          "email": "support@lu.ma",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:56:42.379210"
+        }
+      ]
+    },
+    {
+      "name": "NexuSelf",
+      "votes": 11,
+      "categories": "Android, Health & Fitness, Artificial Intelligence",
+      "website": "https://play.google.com",
+      "contact_count": 24,
+      "contacts": [
+        {
+          "name": "Ser",
+          "email": "ser@babybus.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.494650"
+        },
+        {
+          "name": "Cs1Nikkigame",
+          "email": "cs1nikkigame@gmail.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495609"
+        },
+        {
+          "name": "Privacy",
+          "email": "privacy@elex-tech.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495639"
+        },
+        {
+          "name": "Frenzyfeedback",
+          "email": "frenzyfeedback@outlook.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495654"
+        },
+        {
+          "name": "Mwa",
+          "email": "mwa@tinybytes.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495669"
+        },
+        {
+          "name": "Cs",
+          "email": "cs@mobirix.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495682"
+        },
+        {
+          "name": "Eversoul Gb",
+          "email": "eversoul.gb@kakaocorp.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495696"
+        },
+        {
+          "name": "Eversoul As",
+          "email": "eversoul.as@kakaocorp.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495709"
+        },
+        {
+          "name": "Gp",
+          "email": "gp@seeugame.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495750"
+        },
+        {
+          "name": "Cs2 Sofishgame",
+          "email": "cs2_sofishgame@outlook.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495778"
+        },
+        {
+          "name": "Adaricmusic",
+          "email": "adaricmusic@gmail.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495795"
+        },
+        {
+          "name": "Androidapps",
+          "email": "androidapps@games2win.com",
+          "role": "Contact",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495810"
+        },
+        {
+          "name": "U003Esupport",
+          "email": "u003esupport@miniclip.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495825"
+        },
+        {
+          "name": "Help Doomsday Android",
+          "email": "help.doomsday.android@igg.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495840"
+        },
+        {
+          "name": "Support",
+          "email": "support@devgameou.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495854"
+        },
+        {
+          "name": "Support",
+          "email": "support@whoyaho.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495867"
+        },
+        {
+          "name": "Support",
+          "email": "support@wildspike.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495881"
+        },
+        {
+          "name": "U003Esupport",
+          "email": "u003esupport@ximad.zendesk.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495895"
+        },
+        {
+          "name": "Support Nexuswar",
+          "email": "support.nexuswar@phantixgames.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495910"
+        },
+        {
+          "name": "Support",
+          "email": "support@ximad.zendesk.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.495924"
+        },
+        {
+          "name": "Support Gp",
+          "email": "support.gp@cubicgames.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.496060"
+        },
+        {
+          "name": "Help",
+          "email": "help@zuuks.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.496074"
+        },
+        {
+          "name": "Support",
+          "email": "support@blackbears.mobi",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.496084"
+        },
+        {
+          "name": "Customersupport",
+          "email": "customersupport@cymplstudios.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:58:00.496094"
+        }
+      ]
+    },
+    {
+      "name": "SmartCue",
+      "votes": 10,
+      "categories": "Chrome Extensions, SaaS, Marketing automation",
+      "website": "https://www.getsmartcue.com",
+      "contact_count": 2,
+      "contacts": [
+        {
+          "name": "Sales",
+          "email": "sales@getsmartcue.com",
+          "role": "Business Development",
+          "confidence": 0.6,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:59:25.892184"
+        },
+        {
+          "name": "Support",
+          "email": "support@getsmartcue.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:59:25.894435"
+        }
+      ]
+    },
+    {
+      "name": "MCP Fabric",
+      "votes": 9,
+      "categories": "API, Developer Tools, Artificial Intelligence",
+      "website": "https://mcpfabric.com",
+      "contact_count": 2,
+      "contacts": [
+        {
+          "name": "Support",
+          "email": "support@hydroxygenlabs.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:59:49.984805"
+        },
+        {
+          "name": "Support",
+          "email": "support@mcpfabric.com",
+          "role": "Customer Support",
+          "confidence": 0.5,
+          "source": "Website Discovery",
+          "discovery_date": "2025-05-25T01:59:49.985762"
+        }
+      ]
+    }
+  ]
+}

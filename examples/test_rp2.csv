@@ -1,0 +1,6 @@
+Company,Domain,Contact Name,Role,Email,Confidence,Source,Pattern,LinkedIn
+Razorpay,razorpay.com,Employee Talent Assessment,Unknown,employee@razorpay.com,medium,pattern_match,first,
+Razorpay,razorpay.com,Sumit Premi,Head,sumit@razorpay.com,medium,pattern_match,first,https://in.linkedin.com/in/sumitpremi
+Razorpay,razorpay.com,Raj Paul,Lead,raj@razorpay.com,medium,pattern_match,first,https://in.linkedin.com/in/rajkpaul
+Razorpay,razorpay.com,Divya Babu,Lead,divya@razorpay.com,medium,pattern_match,first,https://in.linkedin.com/in/shalin-menezes-humanresource
+Razorpay,razorpay.com,Garima Nanda,Manager,garima@razorpay.com,medium,pattern_match,first,https://in.linkedin.com/in/garima-nanda-74314890

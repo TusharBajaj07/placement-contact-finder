@@ -1,0 +1,12 @@
+# Active outreach / contact-finder pipeline
+requests==2.32.3
+beautifulsoup4==4.13.4
+lxml==6.0.2
+dnspython==2.8.0          # SMTP / MX verification
+ddgs==9.11.2              # DuckDuckGo search (new package name)
+google-genai==1.66.0      # used by contact_finder.py  (from google import genai)
+google-generativeai==0.8.6  # used by founder_email_finder.py / founder_phone_finder.py (import google.generativeai)
+
+# NOTE: the two google packages are different libraries with overlapping purpose.
+# The codebase currently uses BOTH because scripts were written at different times.
+# A good first cleanup task is to standardise on google-genai everywhere.

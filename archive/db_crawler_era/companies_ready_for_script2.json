@@ -1,0 +1,228 @@
+{
+  "generated_date": "2025-05-25T02:39:08.708173",
+  "total_companies": 20,
+  "companies_with_websites": 20,
+  "ready_for_contact_discovery": 20,
+  "companies": [
+    {
+      "id": 1,
+      "name": "Uplyt.io",
+      "website_url": "https://www.uplyt.io",
+      "categories": "Analytics, Advertising, SEO",
+      "founder_name": "[REDACTED]",
+      "votes_count": 301,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 2,
+      "name": "Shotomatic",
+      "website_url": "https://www.shotomatic.com",
+      "categories": "Mac, SaaS, Apple",
+      "founder_name": "[REDACTED]",
+      "votes_count": 215,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 3,
+      "name": "Psyche",
+      "website_url": "https://www.psycheholistic.com",
+      "categories": "Artificial Intelligence, Health",
+      "founder_name": "[REDACTED], [REDACTED]",
+      "votes_count": 202,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 4,
+      "name": "Magentic-UI",
+      "website_url": "https://www.microsoft.com",
+      "categories": "Open Source, Artificial Intelligence, GitHub, Development",
+      "founder_name": "[REDACTED]",
+      "votes_count": 179,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 5,
+      "name": "vibecheck",
+      "website_url": "https://cqz914zjufw.typeform.com/vibecheck",
+      "categories": "Social Network, Social Media, Social Networking",
+      "founder_name": "[REDACTED]",
+      "votes_count": 163,
+      "extraction_method": "selenium_app_store",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 10,
+      "name": "Liznr",
+      "website_url": "https://liznr.ai",
+      "categories": "Chrome Extensions, Productivity, Meetings, Artificial Intelligence",
+      "founder_name": "[REDACTED], [REDACTED], [REDACTED], [REDACTED], [REDACTED]",
+      "votes_count": 105,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 6,
+      "name": "Silver Pennies",
+      "website_url": "https://www.silverpennies.info",
+      "categories": "Email, Money, Personal Finance",
+      "founder_name": "[REDACTED]",
+      "votes_count": 80,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 11,
+      "name": "Tipsy Chat: Your AI Tavern",
+      "website_url": "https://tipsy.chat",
+      "categories": "Artificial Intelligence, Bots, Photo & Video",
+      "founder_name": "[REDACTED], [REDACTED], [REDACTED]",
+      "votes_count": 75,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 7,
+      "name": "EddyOwl",
+      "website_url": "https://eddyowl.com",
+      "categories": "Analytics, Education, Artificial Intelligence",
+      "founder_name": "[REDACTED]",
+      "votes_count": 70,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 8,
+      "name": "Lily Pad",
+      "website_url": "https://www.boardsource.xyz",
+      "categories": "Custom Keyboards, Hardware, Tech",
+      "founder_name": "[REDACTED]",
+      "votes_count": 66,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 9,
+      "name": "Plannex",
+      "website_url": "https://plannex.io",
+      "categories": "Productivity, Task Management, Developer Tools",
+      "founder_name": "[REDACTED]",
+      "votes_count": 66,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 12,
+      "name": "SlidesCraft",
+      "website_url": "https://www.slidescraft.com",
+      "categories": "Productivity, User Experience, Artificial Intelligence",
+      "founder_name": "[REDACTED]",
+      "votes_count": 63,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 13,
+      "name": "Is This Course Legit?",
+      "website_url": "https://isthiscourselegit.com",
+      "categories": "Education",
+      "founder_name": "[REDACTED], [REDACTED]",
+      "votes_count": 58,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 14,
+      "name": "Paperguide Article GPT",
+      "website_url": "https://paperguide.ai",
+      "categories": "Writing, Marketing, Artificial Intelligence",
+      "founder_name": "[REDACTED], [REDACTED], [REDACTED]",
+      "votes_count": 55,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 15,
+      "name": "MewtruCard",
+      "website_url": "https://mewtrucard.com",
+      "categories": "Card Games, Funny, Design Tools, GitHub",
+      "founder_name": "[REDACTED]",
+      "votes_count": 17,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 16,
+      "name": "GetADACompliant.org",
+      "website_url": "https://getadacompliant.org",
+      "categories": "SaaS, Legal, Business",
+      "founder_name": "",
+      "votes_count": 12,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 17,
+      "name": "NexuSelf",
+      "website_url": "https://nexuself.com/",
+      "categories": "Android, Health & Fitness, Artificial Intelligence",
+      "founder_name": "[REDACTED]",
+      "votes_count": 11,
+      "extraction_method": "selenium_app_store",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 18,
+      "name": "Best Focus",
+      "website_url": "https://bestfocus.vercel.app",
+      "categories": "Productivity, Time Tracking",
+      "founder_name": "[REDACTED]",
+      "votes_count": 10,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 19,
+      "name": "MCP Fabric",
+      "website_url": "https://mcpfabric.com",
+      "categories": "API, Developer Tools, Artificial Intelligence",
+      "founder_name": "[REDACTED]",
+      "votes_count": 9,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    },
+    {
+      "id": 20,
+      "name": "LinkedIn Frame Generator",
+      "website_url": "https://linkedin-frame-generator.vercel.app",
+      "categories": "Design Tools, Advertising, LinkedIn",
+      "founder_name": "[REDACTED]",
+      "votes_count": 9,
+      "extraction_method": "selenium_direct",
+      "url_category": "company_website",
+      "ready_for_script2": true
+    }
+  ]
+}

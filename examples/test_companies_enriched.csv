@@ -1,0 +1,28 @@
+company,company_type,website,linkedin,contact_name,contact_role,contact_email,contact_phone,email_source,confidence
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,Riya Singh,Talent Acquisition Manager / Talent Acquisition Head,riya.s@zerodha.com,,pattern_guess,medium
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,Nithin Kamath,From Gemini knowledge,nithin@zerodha.com,,pattern_guess,medium
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Unknown),Found on website/search,pankathi.h@zerodha.com,,website_scrape,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Unknown),Found on website/search,press@zerodha.com,,website_scrape,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Unknown),Found on website/search,shikha.s@zerodha.com,,website_scrape,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Unknown),Found on website/search,stoptrade@zerodha.com,,website_scrape,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,+919513369970,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,+919513369971,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,+919513369972,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,+919513369973,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,+919513392003,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,+919513392004,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,+919513392005,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,+919513392110,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,+919513392113,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,+919513392116,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,+919513392117,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,+919513736355,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,+919513736377,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,08046801166,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,08046805727,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,08047181888,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,08047181888080,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,08047192020080,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,1600313743,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,1600313754,,low
+Zerodha,large,https://zerodha.com,https://linkedin.com/company/zerodha,(Company),Company Phone (from website),,47181999080,,low

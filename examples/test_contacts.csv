@@ -1,0 +1,16 @@
+Company,Domain,Contact Name,Role,Email,Confidence,Source,Pattern,LinkedIn
+Zerodha,zerodha.com,Riya Singh,Head,riya.singh@zerodha.com,medium,pattern_match,first.last,https://in.linkedin.com/in/riya-singh-b65795291
+Zerodha,zerodha.com,Pallavi Bankar,VP,pallavi.bankar@zerodha.com,medium,pattern_match,first.last,https://in.linkedin.com/in/pallavi-bankar-72a90b312
+Zerodha,zerodha.com,Anamika Kaur,Senior,anamika.kaur@zerodha.com,medium,pattern_match,first.last,https://in.linkedin.com/in/anamika-kaur-b1248320a
+Zerodha,zerodha.com,Zoheb Khan,Unknown,zoheb.khan@zerodha.com,medium,pattern_match,first.last,https://www.linkedin.com/in/zohebkhan2002
+Zerodha,zerodha.com,Nico Arm,Talent Acquisition,nico.arm@zerodha.com,medium,pattern_match,first.last,https://www.linkedin.com/in/nico-arm-a93b041b5
+Razorpay,razorpay.com,Gargi Khune,cto,gargi@razorpay.com,medium,pattern_match,,https://www.linkedin.com/in/gargi-khune-8168a8162
+Razorpay,razorpay.com,Abhi Panchal,Unknown,abhi@razorpay.com,medium,pattern_match,,https://www.linkedin.com/in/abhi-panchal-16ab4a1a6
+Razorpay,razorpay.com,Abhinandan Jha,Talent Acquisition,abhinandan@razorpay.com,medium,pattern_match,,https://www.linkedin.com/in/abhinandanabby20
+Razorpay,razorpay.com,Abhishek Chatterjee,Lead,abhishek@razorpay.com,medium,pattern_match,,https://www.linkedin.com/in/abhishek-chatterjee-0005
+Razorpay,razorpay.com,Elyse Guttmann,Manager,elyse@razorpay.com,medium,pattern_match,,https://www.linkedin.com/in/elyse-guttmann?trk=public_post_feed-actor-image
+Meesho,meesho.com,Tejas Desai,Manager,tejas@meesho.com,medium,pattern_match,first,https://in.linkedin.com/in/tejas-desai-787662170
+Meesho,meesho.com,Bemsana Khan,Manager,bemsana@meesho.com,medium,pattern_match,first,https://in.linkedin.com/in/bemsana-khan-2a15512a5
+Meesho,meesho.com,Rehan Ali,Manager,rehan@meesho.com,medium,pattern_match,first,https://in.linkedin.com/in/rehan-ali-819187372
+Meesho,meesho.com,Susheel Sonar,manager,susheel@meesho.com,medium,pattern_match,first,https://www.linkedin.com/in/susheelsonar
+Meesho,meesho.com,Mahan Dehdar,hr,mahan@meesho.com,medium,pattern_match,first,https://ir.linkedin.com/in/mahan-dehdar-54216b2ba
